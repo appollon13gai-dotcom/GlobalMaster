@@ -1,0 +1,13 @@
+# Системні файли macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Файли конфігурації Antigravity/VS Code
+.vscode/
+.antigravity/
+
+# Тимчасові файли Python
+__pycache__/
+*.py[cod]
+*$py.class
